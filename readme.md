@@ -1,6 +1,6 @@
-# Python Projects
+# Python Programs
 
-Welcome to my collection of Python projects! This repository showcases various projects I've worked on to enhance my programming skills and explore different concepts in Python. Below is a brief description of each project.
+Welcome to my collection of Python programs!! This repository showcases various projects I've worked on to enhance my programming skills and explore different concepts in Python. Below is a brief description of each project.
 
 ## Projects
 
@@ -19,6 +19,6 @@ An implementation of the Collatz conjecture, which generates the sequence for a 
 ### 5. Singly Linked List Program
 A program that implements a singly linked list with basic operations such as insertion, deletion, searching, updating, and sorting.
 
-## 6. String, List, Tuple, and Dictionary Methods Demo
+### 6. String, List, Tuple, and Dictionary Methods Demo
 This project demonstrates various methods for manipulating strings, lists, tuples, and dictionaries in Python.
 
