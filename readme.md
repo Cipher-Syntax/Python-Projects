@@ -19,3 +19,6 @@ An implementation of the Collatz conjecture, which generates the sequence for a 
 ### 5. Singly Linked List Program
 A program that implements a singly linked list with basic operations such as insertion, deletion, searching, updating, and sorting.
 
+## 6. String, List, Tuple, and Dictionary Methods Demo
+This project demonstrates various methods for manipulating strings, lists, tuples, and dictionaries in Python.
+
