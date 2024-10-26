@@ -16,3 +16,6 @@ A fun guessing game where the user attempts to guess a randomly generated number
 ### 4. Collatz Sequence
 An implementation of the Collatz conjecture, which generates the sequence for a given starting number. The program displays each step of the sequence until it reaches 1.
 
+### 5. Singly Linked List Program
+A program that implements a singly linked list with basic operations such as insertion, deletion, searching, updating, and sorting.
+
