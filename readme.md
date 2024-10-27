@@ -29,3 +29,4 @@ This project includes a calculator that performs:
 - Trigonometric Functions
 - Statistical Functions
 
+
