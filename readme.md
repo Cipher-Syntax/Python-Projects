@@ -22,3 +22,10 @@ A program that implements a singly linked list with basic operations such as ins
 ### 6. String, List, Tuple, and Dictionary Methods Demo
 This project demonstrates various methods for manipulating strings, lists, tuples, and dictionaries in Python.
 
+### 7. Advanced Calculator
+This project includes a calculator that performs:
+- Basic Arithmetic Operations
+- Advanced Arithmetic Operations
+- Trigonometric Functions
+- Statistical Functions
+
