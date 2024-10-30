@@ -29,4 +29,11 @@ This project includes a calculator that performs:
 - Trigonometric Functions
 - Statistical Functions
 
+### 8. Contact Manager with CRUD Functionality
+A Contact Manager program with CRUD functionality that includes options to:
+-Add Contacts
+-Display Contacts
+-Update Contacts
+-Delete contacts
+
 
