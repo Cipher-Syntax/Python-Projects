@@ -36,4 +36,12 @@ A Contact Manager program with CRUD functionality that includes options to
 - Update Contacts
 - Delete contacts
 
+### 9. Inventory Management System
+An Inventory Management System that allows users to manage inventory efficiently. It includes functionality to:
+- Add new items to the inventory
+- View all items in the inventory
+- Update item details
+- Delete items from the inventory
+- Search for specific items by ID
+- Calculate the total value of items in inventory
 
