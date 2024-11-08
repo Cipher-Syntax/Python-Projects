@@ -1,6 +1,5 @@
 import os
 import sys
-import time
 
 def clear_screen():
     if os.name == 'nt':
@@ -34,17 +33,17 @@ def update_contact():
     if update_contact in contact_list:
         new_phone_number = input("Enter the new phone number: ")
         contact_list[update_contact] = new_phone_number
-        print(f"Contact '{update_contact}' has been updated successfully.")
+        print(f"\nContact '{update_contact}' has been updated successfully.")
     else:
-        print(f"Contact '{update_contact}' not found.")
+        print(f"\nContact '{update_contact}' not found.")
 
 def delete_contact():
     del_contact = input("Enter the contact you want to delete: ")
     if del_contact in contact_list:
-        print(f"Contact '{del_contact}' has been deleted successfully.")
+        print(f"\nContact '{del_contact}' has been deleted successfully.")
         del contact_list[del_contact]
     else:
-        print(f"Contact '{del_contact}' not found.")
+        print(f"\nContact '{del_contact}' not found.")
 
 
 def main():
@@ -67,30 +66,25 @@ def main():
                 print(f"{'Add Contact':^50}")
                 print("======================================================")
                 add_contact()
-                print("\nreturning to menu.....")
-                time.sleep(1)
+                print()
             elif user_choice == 2:
                 print("======================================================")
                 print(f"{'Display Contact':^50}")
                 print("======================================================")
                 display_contacts()
-                print("\nreturning to menu.....")
-                time.sleep(1)
+                print()
             elif user_choice == 3:
                 print("======================================================")
                 print(f"{'Update Contact':^50}")
                 print("======================================================")
                 update_contact()
-                print("\nreturning to menu.....")
-                time.sleep(1)
+                print()
             elif user_choice == 4:
                 print("======================================================")
                 print(f"{'Delete Contact':^50}")
                 print("======================================================")
                 delete_contact()
-                print("\nreturning to menu.....")
-                time.sleep(1)
-                
+                print()
             elif user_choice == 5:
                 print("Exiting...")
                 sys.exit()
