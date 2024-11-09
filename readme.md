@@ -45,3 +45,10 @@ An Inventory Management System that allows users to manage inventory efficiently
 - Search for specific items by ID
 - Calculate the total value of items in inventory
 
+### 10. Student Management System
+A Student Management System that helps manage student information and grades. It includes features to:
+- Add students and their grades
+- Access a specific student's grade
+- Update grades for students
+- View all students and their grades
+
