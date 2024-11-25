@@ -52,3 +52,8 @@ A Student Management System that helps manage student information and grades. It
 - Update grades for students
 - View all students and their grades
 
+### 11. ATM Machine Simulation
+A simple ATM simulation that allows users to perform multiple transactions. It includes the following features:
+- Check Balance: View the current account balance.
+- Deposit Money: Add funds to the account balance.
+- Withdraw Money: Deduct funds from the account, with error handling for insufficient funds.
