@@ -183,7 +183,7 @@ def trigonometric_functions():
                         result = 1 / math.sin(angle_rad)
                         print(f"Cosecant of {angle} degrees is {result}")
                         print(f"Cosecant of {angle} radians is {math}")
-                    elif choice == 3:
+                    elif trig_choice == 3:
                         result = 1 / math.tan(angle_rad)
                         print(f"Cotangent of {angle} degrees is {result}")
                         print(f"Cotangent of {angle} radians is {math.degrees(result)} degrees")
