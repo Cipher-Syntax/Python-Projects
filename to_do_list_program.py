@@ -36,7 +36,6 @@ def remove_task():
     print("================================================")
     print(f"{"Remove Task":^50}")
     print("================================================")
-    tasks = input("Enter the task to mark as completed: ")
     item = input("Enter the item to remove: ")
     if item in task:
         task.remove(item)
